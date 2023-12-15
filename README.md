@@ -63,7 +63,7 @@ body {
 }
 
 header {
-    background-image: url('background.jpg'); /* Add a background image */
+    background-image: url('<img style="-webkit-user-select:none; display:block; margin:auto; padding:env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);" src="file:///Users/tonyrandall/Desktop/Screen%20Shot%202023-12-15%20at%203.23.26%20PM.png">'); /* Add a background image */
     background-size: cover;
     color: white;
     text-align: center;
