@@ -10,7 +10,7 @@
 
     <!-- Header -->
     <header>
-        <h1>Architecture Studio</h1>
+        <h1>Quantum Echo Studios</h1>
         <p>Designing Spaces, Building Dreams</p>
     </header>
 
